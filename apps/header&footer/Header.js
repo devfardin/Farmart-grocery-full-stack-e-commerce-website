@@ -7,8 +7,9 @@ import { TfiUser } from "react-icons/tfi";
 import { BsHeart } from "react-icons/bs";
 const Header = () => {
   return (
-    <Container>
-      <div className="flex items-center justify-between gap-7 my-7">
+<div className=" py-7 bg-white border-b">
+<Container>
+      <div className="flex items-center justify-between gap-7">
         {/* Logo */}
         <Link href='/'>
           <Image
@@ -53,6 +54,7 @@ const Header = () => {
         </div>
       </div>
     </Container>
+</div>
   )
 }
 
