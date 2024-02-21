@@ -1,4 +1,4 @@
-import "./globals.css";
+import "@/app/globals.css";
 import Header from "@/apps/header&footer/Header";
 import Footer from "@/apps/header&footer/Footer";
 export const metadata = {

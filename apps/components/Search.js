@@ -51,8 +51,8 @@ const Search = () => {
       <option class="level-1" value="heineken">&nbsp;&nbsp;&nbsp;Heineken</option>
     </select>
 
-    <input className='text-base border-l pl-3 border-gray-300 font-medium  bg-transparent outline-none grow ' placeholder='I’m searching for...'/>
-    <BsSearch className='text-xl  justify-self-center'/>
+    <input className='text-base border-l pl-3 border-gray-300 font-light  bg-transparent outline-none grow ' placeholder='I’m searching for...'/>
+    <BsSearch className='text-lg  justify-self-center'/>
 
   </div>
   )
