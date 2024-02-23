@@ -6,3 +6,24 @@
 html{
     font-family: "Inter", sans-serif;
 }
+
+/* category slider css */
+#app {
+  height: 100%;
+}
+html,
+body {
+  position: relative;
+  height: 100%;
+}
+
+/* .swiper-slide {
+    text-align: center;
+    background: #f7f7f6;
+    height: 100%;
+    margin-bottom: 50px;
+    border-radius: 6px;
+  
+  } */
+
+

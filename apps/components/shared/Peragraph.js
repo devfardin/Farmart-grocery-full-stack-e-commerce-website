@@ -1,8 +1,8 @@
 import React from 'react'
 
-const Peragraph = ({pera}) => {
+const Peragraph = ({pera, style}) => {
   return (
-    <p className='text-heading2 font-normal text-base'>{pera}</p>
+    <p className={`${style} ? ${style} : 'text-heading2 font-normal text-base'`}>{pera}</p>
   )
 }
 
