@@ -1,3 +1,4 @@
+import Brands from "./pages/home/Brands";
 import Category from "./pages/home/Category";
 import Hero from "./pages/home/Hero";
 export default function Home() {
@@ -5,6 +6,7 @@ export default function Home() {
       <main>
         <Hero/>
         <Category/>
+        <Brands/>
         
     </main>
   );
