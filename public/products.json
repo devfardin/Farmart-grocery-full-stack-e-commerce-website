@@ -1,0 +1,288 @@
+[
+  {
+    "productName": "Organic Avocado",
+    "image": "images/01_27a-300x300.jpg",
+    "weight": "1 unit",
+    "brand": "Fresh Farms",
+    "categories": ["Produce", "Fruits"],
+    "tags": ["Organic", "Fresh", "Avocado"],
+    "reviews": [
+      {
+        "rating": 4.5,
+        "comment": "Delicious and creamy!"
+      },
+      {
+        "rating": 5,
+        "comment": "Best avocados I've ever had."
+      }
+    ],
+    "description": "Premium quality organic avocados, perfect for salads, sandwiches, and guacamole.",
+    "price": 2.99,
+    "oldPrice": 0,
+    "date": "2024-02-18"
+  },
+  {
+    "productName": "Whole Grain Bread",
+    "image": "images/04_2a.jpg",
+    "weight": "500g",
+    "brand": "Healthy Harvest",
+    "categories": ["Bakery", "Bread"],
+    "tags": ["Whole Grain", "Healthy", "Bread"],
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "Tastes great and stays fresh for days."
+      },
+      {
+        "rating": 4.5,
+        "comment": "Love the texture and flavor!"
+      }
+    ],
+    "description": "Nutritious whole grain bread, rich in fiber and essential nutrients.",
+    "price": 3.49,
+    "oldPrice": 0,
+    "date": "2024-02-18"
+  },
+  {
+    "productName": "Organic Free-Range Eggs",
+    "image": "images/04_3a.jpg",
+    "weight": "Dozen",
+    "brand": "Happy Hen Farms",
+    "categories": ["Dairy", "Eggs"],
+    "tags": ["Organic", "Free-Range", "Eggs"],
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Fresh and delicious eggs!"
+      },
+      {
+        "rating": 4.5,
+        "comment": "Love the quality and taste."
+      }
+    ],
+    "description": "Farm-fresh organic free-range eggs, perfect for breakfast or baking.",
+    "price": 4.99,
+    "oldPrice": 0,
+    "date": "2024-02-18"
+  },
+  {
+    "productName": "Organic Spinach",
+    "image": "images/04_4a.jpg",
+    "weight": "250g",
+    "brand": "Green Garden",
+    "categories": ["Produce", "Leafy Greens"],
+    "tags": ["Organic", "Fresh", "Spinach"],
+    "reviews": [
+      {
+        "rating": 4.5,
+        "comment": "Super fresh and tasty!"
+      },
+      {
+        "rating": 5,
+        "comment": "Great quality, highly recommended."
+      }
+    ],
+    "description": "Tender organic spinach leaves, packed with vitamins and minerals.",
+    "price": 1.99,
+    "oldPrice": 0,
+    "date": "2024-02-18"
+  },
+  {
+    "productName": "Organic Milk",
+    "image": "images/05_1a.jpg",
+    "weight": "1L",
+    "brand": "Pure Pastures",
+    "categories": ["Dairy", "Milk"],
+    "tags": ["Organic", "Fresh", "Milk"],
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "Creamy and delicious!"
+      },
+      {
+        "rating": 4.5,
+        "comment": "Best organic milk I've tried."
+      }
+    ],
+    "description": "Creamy and nutritious organic milk, sourced from grass-fed cows.",
+    "price": 2.49,
+    "oldPrice": 0,
+    "date": "2024-02-18"
+  },
+  {
+    "productName": "Organic Quinoa",
+    "image": "images/05_8a.jpg",
+    "weight": "500g",
+    "brand": "Golden Grains",
+    "categories": ["Grains", "Organic"],
+    "tags": ["Organic", "Whole Grain", "Quinoa"],
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Great taste and texture!"
+      },
+      {
+        "rating": 4.5,
+        "comment": "High-quality organic quinoa."
+      }
+    ],
+    "description": "Versatile and nutritious organic quinoa, perfect for salads, soups, and sides.",
+    "price": 3.99,
+    "oldPrice": 0,
+    "date": "2024-02-18"
+  },
+  {
+    "productName": "Organic Tomatoes",
+    "image": "images/05_11a.jpg",
+    "weight": "1 lb",
+    "brand": "Fresh Farms",
+    "categories": ["Produce", "Vegetables"],
+    "tags": ["Organic", "Fresh", "Tomatoes"],
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "Juicy and flavorful!"
+      },
+      {
+        "rating": 4.5,
+        "comment": "Great for salads and cooking."
+      }
+    ],
+    "description": "Plump and juicy organic tomatoes, bursting with flavor and nutrients.",
+    "price": 2.79,
+    "oldPrice": 0,
+    "date": "2024-02-18"
+  },
+  {
+    "productName": "Brown Rice",
+    "image": "images/06_4a-300x300.jpg",
+    "weight": "2 lbs",
+    "brand": "Healthy Harvest",
+    "categories": ["Grains", "Rice"],
+    "tags": ["Whole Grain", "Healthy", "Rice"],
+    "reviews": [
+      {
+        "rating": 4.5,
+        "comment": "Great texture and flavor!"
+      },
+      {
+        "rating": 5,
+        "comment": "Excellent quality rice."
+      }
+    ],
+    "description": "Nutritious and versatile brown rice, perfect for a variety of dishes.",
+    "price": 2.99,
+    "oldPrice": 0,
+    "date": "2024-02-18"
+  },
+  {
+    "productName": "Organic Apples",
+    "image": "images/07_7b-300x300.jpg",
+    "weight": "3 lbs",
+    "brand": "Green Garden",
+    "categories": ["Produce", "Fruits"],
+    "tags": ["Organic", "Fresh", "Apples"],
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "Crisp and delicious!"
+      },
+      {
+        "rating": 4.5,
+        "comment": "Love the variety and freshness."
+      }
+    ],
+    "description": "Juicy and flavorful organic apples, perfect for snacking or baking.",
+    "price": 4.49,
+    "oldPrice": 0,
+    "date": "2024-02-18"
+  },
+  {
+    "productName": "Organic Chicken Breast",
+    "image": "images/08_2a-300x300.jpg",
+    "weight": "1 lb",
+    "brand": "Happy Hen Farms",
+    "categories": ["Meat", "Poultry"],
+    "tags": ["Organic", "Free-Range", "Chicken"],
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Fresh and juicy!"
+      },
+      {
+        "rating": 4.5,
+        "comment": "Excellent quality chicken."
+      }
+    ],
+    "description": "Tender and succulent organic chicken breasts, perfect for grilling or roasting.",
+    "price": 6.99,
+    "oldPrice": 0,
+    "date": "2024-02-18"
+  },
+  {
+    "productName": "Organic Kale",
+    "image": "images/08_3a-300x300.jpg",
+    "weight": "Bunch",
+    "brand": "Green Garden",
+    "categories": ["Produce", "Leafy Greens"],
+    "tags": ["Organic", "Fresh", "Kale"],
+    "reviews": [
+      {
+        "rating": 4.5,
+        "comment": "Fresh and nutritious!"
+      },
+      {
+        "rating": 5,
+        "comment": "Love adding kale to my salads."
+      }
+    ],
+    "description": "Nutrient-rich organic kale, perfect for salads, smoothies, and stir-fries.",
+    "price": 2.29,
+    "oldPrice": 0,
+    "date": "2024-02-18"
+  },
+  {
+    "productName": "Organic Greek Yogurt",
+    "image": "images/01_8a-300x300.jpg",
+    "weight": "500g",
+    "brand": "Pure Pastures",
+    "categories": ["Dairy", "Yogurt"],
+    "tags": ["Organic", "Creamy", "Yogurt"],
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "Creamy and delicious!"
+      },
+      {
+        "rating": 4.5,
+        "comment": "Best Greek yogurt I've had."
+      }
+    ],
+    "description": "Thick and creamy organic Greek yogurt, packed with protein and probiotics.",
+    "price": 3.99,
+    "oldPrice": 0,
+    "date": "2024-02-18"
+  },
+  {
+    "productName": "Organic Bananas",
+    "image": "images/02_1a.jpg",
+    "weight": "Bunch",
+    "brand": "Fresh Farms",
+    "categories": ["Produce", "Fruits"],
+    "tags": ["Organic", "Fresh", "Bananas"],
+    "reviews": [
+      {
+        "rating": 4.5,
+        "comment": "Sweet and ripe!"
+      },
+      {
+        "rating": 5,
+        "comment": "Great for smoothies and snacks."
+      }
+    ],
+    "description": "Sweet and nutritious organic bananas, perfect for snacking or adding to smoothies.",
+    "price": 1.99,
+    "oldPrice": 0,
+    "date": "2024-02-18"
+  }
+]
