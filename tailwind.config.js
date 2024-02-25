@@ -16,7 +16,8 @@ module.exports = {
         heading:'#222222',
         heading2: '#555555',
         gray1:'#999999',
-        bgColor: '#F3F3F3'
+        bgColor: '#F3F3F3',
+        orange: '#FA532C'
 
 
       }
