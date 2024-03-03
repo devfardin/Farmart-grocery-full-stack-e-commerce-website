@@ -134,7 +134,7 @@ const Footer = () => {
 
           </div>
         </Container>
-      </div>-
+      </div>
       {/* footer body */}
       <div className='py-10 border-b bg-white'>
         <Container>
@@ -146,7 +146,7 @@ const Footer = () => {
               pera='Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed finibus viverra iaculis. Etiam vulputate et justo eget scelerisque'
               />
               <div className='mt-5 flex flex-col gap-3'>
-              <span className='flex items-start gap-3'> <FiPhone className='text-xl text-heading2'/> <h1> <span className='text-heading2 flex flex-wrap '>Hotline 24/7:</span> <a href='tel:+965 7492-4277' className='text-2xl font-medium text-heading duration-300 hover:text-primery'>(+965) 7492-4277</a> </h1> </span>
+              <span className='flex items-start gap-3'> <FiPhone className='text-xl text-heading2'/> <h1> <span className='text-heading2 flex flex-wrap '>Hotline 24/7:</span> <a href='tel:+965 7492-4277' className='text-2xl font-medium text-heading duration-300 hover:text-primery'>(+965) 7492-4277</a> </h1></span>
 
               <span className='flex items-start gap-3'> <FiPhone className='text-xl text-heading2'/> <span className='text-heading2 flex flex-wrap '> 959 Homestead Street Eastlake, NYC</span> </span>
 

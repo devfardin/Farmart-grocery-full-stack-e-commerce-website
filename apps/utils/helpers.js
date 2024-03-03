@@ -8,17 +8,17 @@ export const ProductDate = ()=> [
       "tags": ["Organic", "Fresh", "Avocado"],
       "reviews": [
         {
-          "rating": 4.5,
+          "rating": 2.5,
           "comment": "Delicious and creamy!"
         },
         {
-          "rating": 5,
+          "rating": 2.00,
           "comment": "Best avocados I've ever had."
         }
       ],
       "description": "Premium quality organic avocados, perfect for salads, sandwiches, and guacamole.",
-      "price": 2.99,
-      "oldPrice": 0,
+      "price": 2,
+      "oldPrice": 5.99,
       "date": "2024-02-18"
     },
     {
@@ -30,17 +30,17 @@ export const ProductDate = ()=> [
       "tags": ["Whole Grain", "Healthy", "Bread"],
       "reviews": [
         {
-          "rating": 4,
+          "rating": 3.1,
           "comment": "Tastes great and stays fresh for days."
         },
         {
-          "rating": 4.5,
+          "rating": 0.5,
           "comment": "Love the texture and flavor!"
         }
       ],
       "description": "Nutritious whole grain bread, rich in fiber and essential nutrients.",
-      "price": 3.49,
-      "oldPrice": 0,
+      "price": 5.11,
+      "oldPrice": 10.00,
       "date": "2024-02-18"
     },
     {
@@ -52,17 +52,17 @@ export const ProductDate = ()=> [
       "tags": ["Organic", "Free-Range", "Eggs"],
       "reviews": [
         {
-          "rating": 5,
+          "rating": 3.5,
           "comment": "Fresh and delicious eggs!"
         },
         {
-          "rating": 4.5,
+          "rating": 2.5,
           "comment": "Love the quality and taste."
         }
       ],
       "description": "Farm-fresh organic free-range eggs, perfect for breakfast or baking.",
       "price": 4.99,
-      "oldPrice": 0,
+      "oldPrice":5,
       "date": "2024-02-18"
     },
     {
@@ -78,7 +78,7 @@ export const ProductDate = ()=> [
           "comment": "Super fresh and tasty!"
         },
         {
-          "rating": 5,
+          "rating": 3.00,
           "comment": "Great quality, highly recommended."
         }
       ],

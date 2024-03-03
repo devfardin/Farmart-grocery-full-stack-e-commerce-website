@@ -1,4 +1,6 @@
 /** @type {import('tailwindcss').Config} */
+import {nextui} from "@nextui-org/react";
+
 module.exports = {
   content: [
     "./app/**/*.{js,ts,jsx,tsx,mdx}",
@@ -7,6 +9,7 @@ module.exports = {
     "./apps/**/*.{js,ts,jsx,tsx,mdx}",
     // Or if using `src` directory:
     "./src/**/*.{js,ts,jsx,tsx,mdx}",
+    "./node_modules/@nextui-org/theme/dist/**/*.{js,ts,jsx,tsx}"
   ],
   theme: {
     extend: {
@@ -17,11 +20,13 @@ module.exports = {
         heading2: '#555555',
         gray1:'#999999',
         bgColor: '#F3F3F3',
-        orange: '#FA532C'
+        orange: '#FA532C',
+        link: '#0099CC',
+        active: '#669900'
 
 
       }
     },
   },
-  plugins: [],
+  plugins: [nextui()],
 };
