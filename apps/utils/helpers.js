@@ -14,6 +14,10 @@ export const ProductDate = ()=> [
         {
           "rating": 2.00,
           "comment": "Best avocados I've ever had."
+        },
+        {
+          "rating": 2.00,
+          "comment": "Best avocados I've ever had."
         }
       ],
       "description": "Premium quality organic avocados, perfect for salads, sandwiches, and guacamole.",
@@ -36,6 +40,10 @@ export const ProductDate = ()=> [
         {
           "rating": 0.5,
           "comment": "Love the texture and flavor!"
+        },
+        {
+          "rating": 2.00,
+          "comment": "Best avocados I've ever had."
         }
       ],
       "description": "Nutritious whole grain bread, rich in fiber and essential nutrients.",

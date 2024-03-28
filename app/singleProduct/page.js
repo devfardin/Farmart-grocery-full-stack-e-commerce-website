@@ -46,7 +46,7 @@ const SingleProduct = () => {
             <Image width={1000} height={1000} src='https://farmart.botble.com/storage/products/27-1.jpg' alt='Product Feature Image' className='!w-full' />
           </div>
           <div className='col-span-8 md:col-span-4 lg:col-span-3 border-l-0 lg:border-l pl-0 lg:pl-10'>
-            <h1 className='text-2xl lg:text-xl font-medium text-heading mb-2'>Soft Mochi & Galeto Ice Cream</h1>
+            <h1 className='text-2xl  font-medium text-heading mb-2'>Soft Mochi & Galeto Ice Cream</h1>
             <h1 className='text-sm text-heading2'>Brand: <Link href='/' className='text-sm font-normal text-link'>Soda Brand</Link></h1>
             <div className='mb-4 mt-3 border-b '></div>
             <div className='flex flex-col gap-2'>

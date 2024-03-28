@@ -45,7 +45,7 @@ const TopSaver = () => {
                                 },
                             }}
                             modules={[Pagination]}
-                            className="mySwiper h-full md:h-[87%] lg:[90%] mt-7 lg:mt-10"
+                            className="mySwiper h-full md:h-[460px] lg:h-[510px] mt-7 lg:mt-10"
                         >
                             {
                                 ProductDate().map((item, index) => <SwiperSlide key={index}

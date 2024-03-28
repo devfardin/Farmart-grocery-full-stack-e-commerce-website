@@ -33,18 +33,18 @@ const BestSellerProduct = () => {
                                 spaceBetween: 10,
                             },
                             1024: {
-                                slidesPerView: 6,
+                                slidesPerView: 5,
                                 spaceBetween: 20,
                             },
                         }}
                         modules={[Pagination]}
-                        className="mySwiper h-full  mt-7"
+                        className="mySwiper  h-[510px]  mt-7"
                     >
                         {
                             ProductDate().map((item, index) => <SwiperSlide key={index}
-                                className='text-left group relative'
+                                className='text-left group'
                             >
-                                <ProductCard products={item} fit={true} />
+                                <ProductCard products={item} fit={true}  />
 
                             </SwiperSlide>)
                         }

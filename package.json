@@ -19,6 +19,7 @@
     "react-dom": "^18",
     "react-hot-toast": "^2.4.1",
     "react-icons": "^5.0.1",
+    "react-rating-stars-component": "^2.2.0",
     "react-simple-star-rating": "^5.1.7",
     "react-star-ratings": "^2.3.0",
     "swipe": "^1.7.7",
